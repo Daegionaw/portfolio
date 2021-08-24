@@ -2,6 +2,8 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Daegionaw/portfolio",
+
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
