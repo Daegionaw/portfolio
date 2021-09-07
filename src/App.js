@@ -3,8 +3,7 @@ import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
-
-// Layouts
+ import './App.css';
 import LayoutDefault from './layouts/LayoutDefault';
 
 // Views 

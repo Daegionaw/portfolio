@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Background',
-    paragraph: 'Daegiona has been dedicated to finding all individuals a place they can call home for over numerous years. With veteran experience in the market, no matter what you are looking for, together, we will get you in the house of your dreams.'
+    title: 'The Heart lies in the Prairie',
+    paragraph: ''
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  
+                  Emporia, Kansas
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Connect
+                Far and Beyond
                   </h3>
                 <p className="m-0">
-                (This will be icons of Facebook, LinkedIn and Instagram.)
+                Being in the heart of nature. That is when I capture my best images. Off the highway, just before Emporia when heading South on I-35 lies this scenary. The flint hills. The area is so wide no one really knows what is out there. This landscape image proves how beautiful the sweet state of Kansas is.
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Boarder of Winfield and Arkansas City 
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Locate an Office
+                  Cowley County Beauty
                   </h3>
                 <p className="m-0">
-                  (Get rid of this paragraph and replace the picture below with an interactive map of the city the office will be located, pinpointing the office location.)
+                  Proceed to go past Winfield, but WAIT, do not step past Arkansas City. Many farm road between the two neigboring cities, can lead you to something you would never know exsist. Playing with the sunset in early April, is like playing with fire. It is tough to not get burnt, it is tough to find capture the best image with the sunset in distance. It was important to not rush the art of photography with this image, however, photograhy is best when you focus on one particular subject. The old green left on this harvest land. 
                   </p>
               </div>
               <div className={
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Winfield, Kansas
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Bring the Light
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  A smile always looks better when it shines. Capturing moments with people is quite different than with objects. People can control how to make their best image. A little grace, a little laughter and it will all come together.  
                   </p>
               </div>
               <div className={
