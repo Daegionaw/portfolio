@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Aspirations',
-    paragraph: 'Inspired by the art of nature, four key styles of photography have been contuined mastering.'
+    paragraph: 'Inspired by the art of nature. Four key styles of photography I have contuined mastering.'
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Minimum Depth of Field
                     </h4>
                   <p className="m-0 text-sm">
-                    Focusing on one object while utilizing a large aperture has been my driving factor. Rather it be something as easy as a pencil, this has been the way to create the simplist images that seems to standout.
+                    Focusing on one object while utilizing a large aperture has been my driving factor. Rather it be something as easy as a pencil, this is the way to create the simplist images that seem to standout.
                     </p>
                 </div>
               </div>
@@ -96,9 +96,8 @@ const FeaturesTiles = ({
                     Landscape
                     </h4>
                   <p className="m-0 text-sm">
-                  . A
-soothing photo always makes me feel good, and that is what I aim for. Being drawn to landscape
-photography, I look to capture images of nature that can be simple and meaningful.
+                  A soothing photo always makes me feel good and that is what I aim for. Being drawn to landscape
+photography, I look to capture images of nature that provide meaning.
                     </p>
                 </div>
               </div>
@@ -120,7 +119,7 @@ photography, I look to capture images of nature that can be simple and meaningfu
                     Sports
                     </h4>
                   <p className="m-0 text-sm">
-                    Caught in the middle of the action. That's what it is about. Spear of the moment, celebrating the glory and capturing the hard work paying off, has connected me to sports photograghy.
+                    Caught in the middle of the action. That is the story. Spare of the moment, celebrating the glory and capturing hard work paying off, has connected me to sports photograghy.
                     </p>
                 </div>
               </div>
@@ -142,35 +141,13 @@ photography, I look to capture images of nature that can be simple and meaningfu
                     Portrait
                     </h4>
                   <p className="m-0 text-sm">
-                    Independent. Family. Focused. Happy. Many different choices are there. Portraits give me the oppurunity to be unique with another individual, capturing images that we both connect with.
+                    Independent. Family. Focused. Happy. Many different choices are here. Portraits give me the oppurunity to be unique with another individual, creating images that we both connect with.
                     </p>
                 </div>
               </div>
             </div>
 
-            <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
-              <div className="tiles-item-inner">
-                <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require('./../../assets/images/feature-tile-icon-05.svg')}
-                      alt="Features tile icon 05"
-                      width={64}
-                      height={64} />
-                  </div>
-                </div>
-                <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
-                    
-                    Robust Workflow
-                    </h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
-                </div>
-              </div>
-            </div>
-
+            
           </div>
         </div>
       </div>

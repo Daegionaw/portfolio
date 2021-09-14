@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Recently Discovered Loctions',
-    paragraph: 'A expert does not mind telling its secrets. In fact, others shall know about them so that they may create their own path of experties. I have create a blog of unknown locations that I have found and captured some of my best photograghy at. By using hints and indivudal contect clues, lets see if you can discover where these locations lie.'
+    paragraph: 'A expert does not mind telling its secrets. In fact, others shall know about them so that they may create their own path of experties. I have created a blog of unknown locations that I have found and captured some of my best photograghy at. By using hints and indivudal context clues, lets see if you can discover where these locations lie.'
   };
 
   return (

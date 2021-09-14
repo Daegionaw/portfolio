@@ -22,6 +22,7 @@ const Logo = ({
         <Link to="/">
           <Image
             src={require('./../../../assets/images/logo.svg')}
+            className= "square"
             alt="Open"
             width={32}
             height={32} />

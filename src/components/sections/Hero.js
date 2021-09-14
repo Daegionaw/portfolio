@@ -72,8 +72,8 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
                     Artist Statement
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    Biography
+                  <Button tag="a" color="dark" wideMobile href="https://www.instagram.com/daegionaw/">
+                    Instagram
                     </Button>
                 </ButtonGroup>
               </div>
@@ -90,8 +90,8 @@ const Hero = ({
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
                 alt="Hero"
-                width={896}
-                height={504} />
+                width={550}
+                height={740} />
             </a>
           </div>
           <Modal

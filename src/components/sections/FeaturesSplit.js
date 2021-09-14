@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                 Far and Beyond
                   </h3>
                 <p className="m-0">
-                Being in the heart of nature. That is when I capture my best images. Off the highway, just before Emporia when heading South on I-35 lies this scenary. The flint hills. The area is so wide no one really knows what is out there. This landscape image proves how beautiful the sweet state of Kansas is.
+                Being in the heart of nature. That is when I capture my best images. Off the highway, just before Emporia when heading South on I-35 lies this beautiful scenary. The flint hills. This area is so wide no one really knows what is out there. This landscape image proves how beautiful the sweet state of Kansas truly is.
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Cowley County Beauty
                   </h3>
                 <p className="m-0">
-                  Proceed to go past Winfield, but WAIT, do not step past Arkansas City. Many farm road between the two neigboring cities, can lead you to something you would never know exsist. Playing with the sunset in early April, is like playing with fire. It is tough to not get burnt, it is tough to find capture the best image with the sunset in distance. It was important to not rush the art of photography with this image, however, photograhy is best when you focus on one particular subject. The old green left on this harvest land. 
+                  Proceed to go past Winfield, but WAIT, do not step past Arkansas City. Many farm road between the two neigboring cities, can lead you to something you would never know exsist. Playing with the sunset in early April is like playing with fire. It is tough to not get burnt. It is tough to capture the best image with the sunset in distance. It was important to not rush the art of photography with this image, however, photograhy is best when you focus on one particular subject. The old green left on this harvest land. 
                   </p>
               </div>
               <div className={
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Bring the Light
                   </h3>
                 <p className="m-0">
-                  A smile always looks better when it shines. Capturing moments with people is quite different than with objects. People can control how to make their best image. A little grace, a little laughter and it will all come together.  
+                  A smile always looks better when it shines. Moments with people is quite different than with objects. People can control how to make their best image. A little grace, a little laughter and it will all come together.  
                   </p>
               </div>
               <div className={
