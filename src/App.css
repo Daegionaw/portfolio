@@ -1,5 +1,5 @@
 * {
-    /* background-color: #268 !important;  */
+    background-color: rgb(229, 205, 245) !important; 
     /* color: #000 !important;  */
 }
 
@@ -27,5 +27,24 @@ background-image: url}
 
 .square {
     color: #FFF !important;
-
 }
+
+    .easter-egg-avocado {
+
+        width: 50vw;
+        height: 100vh;
+
+        color: rgb(140, 184, 201);
+        background-color: #000;
+    }
+    .inner-avocado {
+        color: #140,184,201
+    }
+
+    .img-butterfly {
+        height: 400px;
+        width: auto;
+
+        background-image:url('/portfolio/images/butterfly');
+    
+    }

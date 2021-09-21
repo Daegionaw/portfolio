@@ -5,7 +5,7 @@ import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
  import './App.css';
 import LayoutDefault from './layouts/LayoutDefault';
-
+import EasterEgg from './views/EasterEgg';
 // Views 
 import Home from './views/Home';
 
@@ -35,10 +35,11 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-        <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />  
+        <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} /> 
+        <AppRoute exact path="/portfolio/easter-egg" component={EasterEgg} /> 
         </Switch>
       )} />
   );
-}
 
+  }
 export default App;
