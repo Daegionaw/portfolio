@@ -31,15 +31,25 @@ background-image: url}
 
     .easter-egg-avocado {
 
-        width: 50vw;
+        width: 100vw;
         height: 100vh;
 
         color: rgb(140, 184, 201);
-        background-color: #000;
+        background-color: rgb(51, 37, 48) !important;
     }
     .inner-avocado {
-        color: #140,184,201
+        color: #140,184,201);
+        background-color: #000 !important;
+        
     }
+     .leon {
+         background-color: #000 !important;
+     }
+
+     .destin {
+         background-color: rgb(51, 37, 48) !important;
+     }
+
 
     .img-butterfly {
         height: 400px;

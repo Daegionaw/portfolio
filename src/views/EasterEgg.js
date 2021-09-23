@@ -16,11 +16,11 @@ return (
             </div> 
             Minor White
             "Photography is a language more universal than words"
-            <div class="other-inner-inner avocado">
+            <div class="leon">
                 Leon Levinstein
                 "I walk. I look. I see. I stop. I photograph"
                 </div> 
-                <div class="other inner-inner avocado"> 
+                <div class="destin"> 
                     Destin Sparks
                     "Photography is the story I fail to put into words"
     </div>
