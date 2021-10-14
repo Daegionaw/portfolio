@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(229, 205, 245) !important; 
+    background-color: rgb(205, 239, 245) !important; 
     /* color: #000 !important;  */
 }
 
@@ -57,5 +57,342 @@ background-image: url}
         width: auto;
 
         background-image:url('/portfolio/images/butterfly');
-    
     }
+
+    .head {
+        height: 7vh;
+        font-size: 28px;
+        color:rgb(51, 37, 48);
+
+        text-align: center;
+        word-spacing: 30px;
+        display: flex;
+
+
+
+
+    }
+        .banner {
+            height: 10vh;
+            font-size: 42px;
+            color:rgb(95, 0, 75);
+            font-weight: 600;
+            text-align: center;
+            background-color:rgb(205, 239, 245) !important;
+            
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+            margin-top: 10px;
+            border: solid #000;
+            border-width: 7px;
+            
+        }
+
+        .pictures {
+            display: flex;
+            margin-top: 0%;
+    
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            height: max-content;
+
+        
+
+
+        }
+
+        .photo {
+            width: 45%;
+            height: 42rem;
+            margin: 3rem 0;
+            margin-right: 1%;
+           
+            
+            background-image: url('/portfolio/images/KCSky.jpg');
+            background-size: cover; 
+
+            color:rgb(51, 37, 48);
+            
+            border-radius: 0rem;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        #soccer {
+
+        background-image: url('/portfolio/images/soccer.jpg');
+
+        }
+
+        #ava{
+
+            background-image: url('/portfolio/images/ava.jpg');
+            box-sizing: content-box;
+
+            margin-top: 0%;
+            
+        }
+
+        
+        #alissa {
+
+            background-image: url('/portfolio/images/alissa.jpg');
+            box-sizing: content-box;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            margin-top: 0%;
+        
+        }
+
+        #pole {
+
+                background-image: url('/portfolio/images/pole.jpg');
+
+                margin-top: 0%;
+                
+                
+        }
+
+
+        #snow {
+
+            background-image: url('/portfolio/images/snow.jpg');
+
+            margin-top: 0%;
+        }
+
+        .end {
+            height: 16vh;
+            font-size: 40px;
+            color: rgb(95, 0, 75);
+            font-weight: 900;
+            text-align: center;
+            background-color: rgb(180, 180, 180) !important;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+        }
+
+        .top-nav {
+            height: 8vh;
+            font-size: 32px;
+            color:rgb(205, 239, 245);
+            font-weight: 900;
+            text-align: center;
+            background-color:rgb(205, 239, 245);
+
+            border: solid #000;
+            border-width: 7px;
+
+        
+            
+
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            word-spacing: 30px;
+        }
+
+        .content {
+            height: 45vh;
+            font-size: 30px;
+            color: rgb(95, 0, 75);
+            font-weight: 900;
+            text-align: center;
+            background-color: rgb(221, 221, 221) !important;
+
+            border: solid #000;
+            border-width: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+        }
+
+        .face {
+            height: 12vh;
+            font-size: 42px;
+            color:rgb(95, 0, 75);
+            font-weight: 600;
+            text-align: center;
+            background-color:rgb(205, 239, 245) !important;
+
+            border: solid #000;
+            border-width: 7px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+            
+            margin-top: 10px;
+        }
+
+        #dae {
+
+            background-image: url('/portfolio/images/dae1.jpg');
+
+            margin-top: 10px;
+
+        }
+
+        #daedae {
+
+            background-image: url('/portfolio/images/daedae.jpg');
+
+            margin-top: 10px;
+        }
+
+        .book {
+            height: 12vh;
+            font-size: 42px;
+            color:rgb(95, 0, 75);
+            font-weight: 600;
+            text-align: center;
+            background-color:rgb(231, 231, 231) !important;
+
+            border: solid #000;
+            border-width: 7px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+            
+            margin-top: 10px;
+        }
+
+        .info {
+            height: 10vh;
+            font-size: 30px;
+            color: rgb(0, 92, 95);
+            font-weight: 900;
+            text-align: center;
+            background-color: rgb(221, 221, 221) !important;
+
+            border: solid #000;
+            border-width: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+
+            margin-top: 10px;
+        }
+
+        .email {
+            height: 10vh;
+            font-size: 30px;
+            color: rgba(0, 92, 95, 0.822);
+            font-weight: 600;
+            text-align: center;
+            background-color: rgb(221, 221, 221) !important;
+
+            border: solid #000;
+            border-width: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+
+            margin-top: 2px;
+        }
+
+        .phone {
+            height: 10vh;
+            font-size: 30px;
+            color: rgba(0, 92, 95, 0.582);
+            font-weight: 600;
+            text-align: center;
+            background-color: rgb(221, 221, 221) !important;
+
+            border: solid #000;
+            border-width: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+
+            margin-top: 2px;
+        }
+
+        .social {
+            height: 10vh;
+            font-size: 30px;
+            color: rgba(0, 92, 95, 0.445);
+            font-weight: 600;
+            text-align: center;
+            background-color: rgb(221, 221, 221) !important;
+
+            border: solid #000;
+            border-width: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+
+            margin-top: 2px;
+        }
+
+        .reason {
+            height: 15vh;
+            font-size: 30px;
+            color: rgb(95, 0, 75);
+            font-weight: 600;
+            text-align: center;
+            background-color: rgb(221, 221, 221) !important;
+
+            border: solid #000;
+            border-width: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            line-height: 40px;
+
+            margin-top: 2px;
+        }
+
+        
+        #pink {
+
+            background-image: url('/portfolio/images/pink.jpg');
+
+            margin-top: 10px;
+
+        }
+
+        #green {
+
+            background-image: url('/portfolio/images/green.jpg');
+
+            margin-top: 10px;
+        }

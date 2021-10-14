@@ -69,7 +69,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://docs.google.com/document/d/1olmYvyszpLng6-1U3lfKeOygsDt4SmPRyUvbRiUbcPI/edit?usp=sharing">
                     Artist Statement
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://www.instagram.com/daegionaw/">
