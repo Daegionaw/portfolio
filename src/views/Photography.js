@@ -4,6 +4,8 @@ import Footer from "../components/layout/Footer.js"
 import Banner from "../components/sections/Banner.js"
 import KansasCity from "../assets/images/KansasCity.jpg"
 import TopNav from "../components/sections/TopNav.js"
+
+
 const Photography = () => {
     return(
         <>
