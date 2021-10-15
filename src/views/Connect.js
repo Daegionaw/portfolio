@@ -4,6 +4,7 @@ import Banner from "../components/sections/Banner.js"
 import TopNav from "../components/sections/TopNav.js"
 
 
+
 const Connect = () => {
     return (
         <>
