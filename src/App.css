@@ -129,6 +129,7 @@ background-image: url}
         #soccer {
 
         background-image: url('/portfolio/Images/soccer.jpg');
+        background-size: cover; 
 
         }
 
@@ -136,6 +137,7 @@ background-image: url}
 
             background-image: url('/portfolio/Images/ava.jpg');
             box-sizing: content-box;
+            background-size: cover; 
 
             margin-top: 0%;
             
@@ -146,6 +148,7 @@ background-image: url}
 
             background-image: url('/portfolio/Images/alissa.jpg');
             box-sizing: content-box;
+            background-size: cover; 
 
             display: flex;
             flex-direction: column;
@@ -159,6 +162,7 @@ background-image: url}
         #pole {
 
                 background-image: url('/portfolio/Images/pole.jpg');
+                background-size: cover; 
 
                 margin-top: 0%;
                 
@@ -169,6 +173,7 @@ background-image: url}
         #snow {
 
             background-image: url('/portfolio/Images/snow.jpg');
+            background-size: cover; 
 
             margin-top: 0%;
         }
