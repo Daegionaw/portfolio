@@ -56,7 +56,7 @@ background-image: url}
         height: 400px;
         width: auto;
 
-        background-image:url('/portfolio/images/butterfly');
+        background-image:url('/portfolio/Images/butterfly');
     }
 
     .head {
@@ -112,7 +112,7 @@ background-image: url}
             margin-right: 1%;
            
             
-            background-image: url('/portfolio/images/KCSky.jpg');
+            background-image: url('/portfolio/Images/KCSky.jpg');
             background-size: cover; 
 
             color:rgb(51, 37, 48);
@@ -128,13 +128,13 @@ background-image: url}
 
         #soccer {
 
-        background-image: url('/portfolio/images/soccer.jpg');
+        background-image: url('/portfolio/Images/soccer.jpg');
 
         }
 
         #ava{
 
-            background-image: url('/portfolio/images/ava.jpg');
+            background-image: url('/portfolio/Images/ava.jpg');
             box-sizing: content-box;
 
             margin-top: 0%;
@@ -144,7 +144,7 @@ background-image: url}
         
         #alissa {
 
-            background-image: url('/portfolio/images/alissa.jpg');
+            background-image: url('/portfolio/Images/alissa.jpg');
             box-sizing: content-box;
 
             display: flex;
@@ -158,7 +158,7 @@ background-image: url}
 
         #pole {
 
-                background-image: url('/portfolio/images/pole.jpg');
+                background-image: url('/portfolio/Images/pole.jpg');
 
                 margin-top: 0%;
                 
@@ -168,7 +168,7 @@ background-image: url}
 
         #snow {
 
-            background-image: url('/portfolio/images/snow.jpg');
+            background-image: url('/portfolio/Images/snow.jpg');
 
             margin-top: 0%;
         }
@@ -248,7 +248,7 @@ background-image: url}
 
         #dae {
 
-            background-image: url('/portfolio/images/dae1.jpg');
+            background-image: url('/portfolio/Images/dae1.jpg');
 
             margin-top: 10px;
 
@@ -256,7 +256,7 @@ background-image: url}
 
         #daedae {
 
-            background-image: url('/portfolio/images/daedae.jpg');
+            background-image: url('/portfolio/Images/daedae.jpg');
 
             margin-top: 10px;
         }
@@ -384,7 +384,7 @@ background-image: url}
         
         #pink {
 
-            background-image: url('/portfolio/images/pink.jpg');
+            background-image: url('/portfolio/Images/pink.jpg');
 
             margin-top: 10px;
 
@@ -392,7 +392,7 @@ background-image: url}
 
         #green {
 
-            background-image: url('/portfolio/images/green.jpg');
+            background-image: url('/portfolio/Images/green.jpg');
 
             margin-top: 10px;
         }
