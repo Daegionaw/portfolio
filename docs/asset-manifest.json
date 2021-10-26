@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7ab2d08b.chunk.css",
+    "main.css": "/portfolio/static/css/main.337077d2.chunk.css",
     "main.js": "/portfolio/static/js/main.cb99d45d.chunk.js",
     "main.js.map": "/portfolio/static/js/main.cb99d45d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0a162c52.js",
@@ -8,9 +8,9 @@
     "static/js/2.b7caf1a0.chunk.js": "/portfolio/static/js/2.b7caf1a0.chunk.js",
     "static/js/2.b7caf1a0.chunk.js.map": "/portfolio/static/js/2.b7caf1a0.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.43976c834450c4fd5de22b1e7ace1182.js": "/portfolio/precache-manifest.43976c834450c4fd5de22b1e7ace1182.js",
+    "precache-manifest.5a471bf53d813562dd78185010e42fe2.js": "/portfolio/precache-manifest.5a471bf53d813562dd78185010e42fe2.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.7ab2d08b.chunk.css.map": "/portfolio/static/css/main.7ab2d08b.chunk.css.map",
+    "static/css/main.337077d2.chunk.css.map": "/portfolio/static/css/main.337077d2.chunk.css.map",
     "static/js/2.b7caf1a0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b7caf1a0.chunk.js.LICENSE.txt",
     "static/media/KansasCity.jpg": "/portfolio/static/media/KansasCity.df6590b2.jpg",
     "static/media/style.scss": "/portfolio/static/media/illustration-section-02.63d0555d.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.0a162c52.js",
     "static/js/2.b7caf1a0.chunk.js",
-    "static/css/main.7ab2d08b.chunk.css",
+    "static/css/main.337077d2.chunk.css",
     "static/js/main.cb99d45d.chunk.js"
   ]
 }
